@@ -1,1 +1,1 @@
-<a href="luke.patola@gmail.com">Email</a>
+<a href="mailto:luke.patola@gmail.com">Email</a>
