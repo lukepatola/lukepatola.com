@@ -1,1 +1,1 @@
-<li><a href="luke.patola@gmail.com>Email</a></li>
+<li><a href="luke.patola@gmail.com">Email</a></li>
